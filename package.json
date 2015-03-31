@@ -1,8 +1,8 @@
 {
-  "name": "@mehcode/director",
+  "name": "mehcode-director",
   "description": "A client Side/Server Side Router",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
-  "version": "1.2.8",
+  "version": "1.3.0",
   "maintainers": [
     "hij1nx <paolo@nodejitsu.com>",
     "beaugunderson <beau@beaugunderson.com>"
