@@ -1,5 +1,5 @@
 {
-  "name": "director",
+  "name": "@mehcode/director",
   "description": "A client Side/Server Side Router",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "version": "1.2.8",
